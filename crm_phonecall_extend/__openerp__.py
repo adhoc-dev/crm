@@ -5,7 +5,11 @@
     'depends': [
         'crm_phonecall_type'
         ],
-    'description': 'CRM Phonecalls Extension',
+    'description': """
+CRM Phonecalls Extension
+========================
+TODO: improove description
+""",
     'init_xml': [],
     'installable': True,
     'license': 'AGPL-3',
