@@ -20,7 +20,7 @@
 ##############################################################################
 {
     'name': 'CRM Partner History',
-    'version': '8.0.1.1.0',
+    'version': '9.0.1.0.0',
     'category': 'Sales & Purchases',
     'sequence': 14,
     'summary': '',
@@ -29,7 +29,7 @@ CRM Partner History
 ===================
 Adds CRM partner history page on partners form view as it exists on odoo v6.1
     """,
-    'author':  'ADHOC SA',
+    'author': 'ADHOC SA',
     'website': 'www.adhoc.com.ar',
     'license': 'AGPL-3',
     'images': [
@@ -44,7 +44,7 @@ Adds CRM partner history page on partners form view as it exists on odoo v6.1
     ],
     'test': [
     ],
-    'installable': True,
+    'installable': False,
     'auto_install': False,
     'application': False,
 }

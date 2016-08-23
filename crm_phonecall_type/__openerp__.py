@@ -1,13 +1,14 @@
 # -*- coding: utf-8 -*-
-{'author': 'ADHOC SA',
+{
+    'author': 'ADHOC SA',
     'demo_xml': [
     ],
     'depends': [
         'crm'
-        ],
+    ],
     'description': 'CRM Phonecall Type',
     'init_xml': [],
-    'installable': True,
+    'installable': False,
     'license': 'AGPL-3',
     'name': 'CRM Phonecall Type',
     'test': [],
@@ -17,10 +18,9 @@
         'crm_phonecall_view.xml',
         'security/ir.model.access.csv',
     ],
-    'version': '8.0.0.0.0',
+    'version': '9.0.1.0.0',
     'auto_install': False,
     'category': '',
     'website': 'www.adhoc.com.ar',
-    'license': 'AGPL-3'}
-
-# vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
+    'license': 'AGPL-3'
+}
