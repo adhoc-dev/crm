@@ -1,4 +1,4 @@
-[![Runbot Status](http://runbot.adhoc.com.ar/runbot/badge/flat/32/9.0.svg)](http://runbot.adhoc.com.ar/runbot/repo/github-com-ingadhoc-crm-32)
+[![Runbot Status](http://runbot.adhoc.com.ar/runbot/badge/flat/26/9.0.svg)](http://runbot.adhoc.com.ar/runbot/repo/github-com-ingadhoc-crm-26)
 [![Build Status](https://travis-ci.org/ingadhoc/crm.svg?branch=9.0)](https://travis-ci.org/ingadhoc/crm)
 [![Coverage Status](https://coveralls.io/repos/ingadhoc/crm/badge.png?branch=9.0)](https://coveralls.io/r/ingadhoc/crm?branch=9.0)
 [![Code Climate](https://codeclimate.com/github/ingadhoc/crm/badges/gpa.svg)](https://codeclimate.com/github/ingadhoc/crm)
