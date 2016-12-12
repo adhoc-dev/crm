@@ -1,1 +1,1 @@
-adhoc_partner https://github.com/ingadhoc/partner.git
+ingadhoc-partner https://github.com/ingadhoc/partner.git
